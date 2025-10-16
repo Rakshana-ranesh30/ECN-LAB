@@ -24,6 +24,8 @@
 
 **CIRCUIT DIAGRAM:**
 
+verification of Kirchhoff laws
+https://github.com/Sharmikavya99/ECN-LAB/compare/main...Rakshana-ranesh30:ECN-LAB:patch-1
 
 
 
